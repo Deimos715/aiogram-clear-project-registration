@@ -1,7 +1,7 @@
 #backend
 .venv/
 .venv2/
-settings/.env
+.env
 
 # __pycache__ ignor
 **/__pycache__/
